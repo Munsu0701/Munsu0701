@@ -2,9 +2,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-yellowgreen?style=flat-square&logo=Java&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
 
 
