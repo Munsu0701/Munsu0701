@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/-Java-yellowgreen?style=flat-square&logo=Java&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=#F7DF1E&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </div>
 
 
