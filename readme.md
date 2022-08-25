@@ -14,5 +14,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunSu0701&layout=compact)](https://github.com/Munsu0701)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/qkranstn1/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkranstn1)](https://solved.ac/qkranstn1/)
 
