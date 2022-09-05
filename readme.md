@@ -1,5 +1,17 @@
 # ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=ParkMunSu&fontSize=90&animation=fadeIn&desc=Study%20Git%20Hub&descSize=30&descAlignY=70)
 
+ <div align="left">
+ 
+ 
+ ***A lot more..***
+ - I enjoy taking on new challenge 😆
+ - These days, I’m studying back-end developer course. 🔥
+ - The things I am studying to become a developer are Java, Html&Css, JSP, and MySQL. :books:
+ - I spend most of my time studying since I’ve always wanted to improve my ability 😎
+ 
+ </div>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-yellowgreen?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
