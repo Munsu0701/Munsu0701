@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Spring-orange?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Spring-9cf?style=flat-square&logo=Spring&logoColor=white"/></a>
 </div>
 
 
